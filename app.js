@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-
-</head>
 <body>
 
 <h2>Demo JavaScript in Head</h2>
